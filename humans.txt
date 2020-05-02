@@ -20,6 +20,7 @@
 
     Thanks dude for the wonderful training
     added new line thanks section
+    added third line and a space line
 
 # TECHNOLOGY COLOPHON
 
