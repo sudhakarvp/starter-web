@@ -1,0 +1,28 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+ Hi, I am modifiing the file before rebase.
+
+ Doing some changes in Local.
+ Adding important Notes on GIT Stash.
+
+
+ Hi. Going to insert conflicts in my feature branch.
+
+# TEAM
+
+    Anshul Thakur 
+    anshulc55@gmail.com
+    DevOps Engineer Level III
+    IT Organization
+
+# THANKS
+
+    Thanks dude for the wonderful training
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Angular
+    jQuery, Modernizr
+    Machine Learning, AWS, Google Cloud
+    AWS Solution Architect Developer
