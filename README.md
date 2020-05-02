@@ -1,7 +1,6 @@
 # Starter Web- Project
 This is GIT Project, which we are using as Sample Project
-creating conflict from master readme
-creating conflict from mybranch readme
+creating second time conflict from master readme
 
 ## Introduction
 A lot of Lectures are already submmited.
