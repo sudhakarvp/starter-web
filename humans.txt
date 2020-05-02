@@ -19,6 +19,7 @@
 # THANKS
 
     Thanks dude for the wonderful training
+    added new line thanks section
 
 # TECHNOLOGY COLOPHON
 
